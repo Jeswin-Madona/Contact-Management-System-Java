@@ -51,13 +51,12 @@ The goal of this project was not only to build a working application but also to
 ![img_1.png](https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/d453a590abeb2328bd1675c5b5c004cc85356d99/Screenshot%202026-05-26%20202354.png)
 
 ### ✏️ Edit Contact
-![img_2.png](img_2.png)
+![img_2.png](https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/5978709fad4ca81f83a08d55ca1230921b417874/Screenshot%202026-05-26%20202609.png)
 
 ### 🗑️ Delete Contact
 ![img_3.png](https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/a4bd9a85d96394cb3389ec912190b7a8de6235d4/Screenshot%202026-05-26%20202134.png)
 
-### 🗄️ Database in phpMyAdmin
-![img_3.png](img_3.png)
+
 
 ---
 
@@ -189,7 +188,7 @@ CREATE TABLE contacts (
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/Jeswin-Madona/Contact-Management-System-Java/
 ```
 
 ### 2. Open in IntelliJ IDEA
