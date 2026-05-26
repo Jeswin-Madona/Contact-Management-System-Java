@@ -45,7 +45,7 @@ The goal of this project was not only to build a working application but also to
 ## 📸 Screenshots
 
 ### 🏠 Main Dashboard
-https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/a4bd9a85d96394cb3389ec912190b7a8de6235d4/Screenshot%202026-05-26%20202134.png
+![img_0.png](https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/a4bd9a85d96394cb3389ec912190b7a8de6235d4/Screenshot%202026-05-26%20202134.png)
 
 ### ➕ Add Contact
 ![img_1.png](img_1.png)
@@ -54,7 +54,7 @@ https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/a4bd9a85d96
 ![img_2.png](img_2.png)
 
 ### 🗑️ Delete Contact
-https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/a4bd9a85d96394cb3389ec912190b7a8de6235d4/Screenshot%202026-05-26%20202134.png
+![img_3.png](https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/a4bd9a85d96394cb3389ec912190b7a8de6235d4/Screenshot%202026-05-26%20202134.png)
 
 ### 🗄️ Database in phpMyAdmin
 ![img_3.png](img_3.png)
@@ -65,7 +65,7 @@ https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/a4bd9a85d96
 
 
 Watch the demo here:  
-https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/2a62c5fbd906397ecbcf3693f4803298a038aa84/cms.mp4
+[Project Demo Video](https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/2a62c5fbd906397ecbcf3693f4803298a038aa84/cms.mp4)
 
 ---
 
