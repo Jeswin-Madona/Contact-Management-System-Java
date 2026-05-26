@@ -45,7 +45,7 @@ The goal of this project was not only to build a working application but also to
 ## 📸 Screenshots
 
 ### 🏠 Main Dashboard
-![img.png](img.png)
+https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/a4bd9a85d96394cb3389ec912190b7a8de6235d4/Screenshot%202026-05-26%20202134.png
 
 ### ➕ Add Contact
 ![img_1.png](img_1.png)
@@ -54,7 +54,7 @@ The goal of this project was not only to build a working application but also to
 ![img_2.png](img_2.png)
 
 ### 🗑️ Delete Contact
-![img.png](img.png)
+https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/a4bd9a85d96394cb3389ec912190b7a8de6235d4/Screenshot%202026-05-26%20202134.png
 
 ### 🗄️ Database in phpMyAdmin
 ![img_3.png](img_3.png)
