@@ -64,10 +64,8 @@ The goal of this project was not only to build a working application but also to
 ## 🎥 Project Demo
 
 
-Example:
-
 Watch the demo here:  
-A
+https://github.com/Jeswin-Madona/Contact-Management-System-Java/blob/2a62c5fbd906397ecbcf3693f4803298a038aa84/cms.mp4
 
 ---
 
